@@ -1,4 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/luarkerja/.github-private/main/logo.png?token=GHSAT0AAAAAABWIASYOJHPU2CNLGBB377CCY7N6EGA">
+  <img src="https://github.com/luarkerja/.github-private/blob/main/logo.png">
   <p align="center"></p>
 </div>
